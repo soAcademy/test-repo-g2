@@ -1,2 +1,3 @@
 # Hello Group 2
-Thanapon Bunchot
+
+Born Dhamachart C.
